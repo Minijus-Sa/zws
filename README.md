@@ -47,6 +47,10 @@ A status page for the official zws.im instance of ZWS is available at **[status.
 
 ## Self-hosting
 
+### Hostinger
+
+[![Deploy on Hostinger](https://assets.hostinger.com/vps/deploy.svg)](https://www.hostinger.com/vps/docker-hosting?compose_url=https://github.com/jvmkit/zws/)
+
 ### Heroku
 
 [![Deploy to Heroku][deploy-to-heroku-image]][deploy-to-heroku]
